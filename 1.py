@@ -3,7 +3,7 @@ input_file = open("input1.txt", "r")
 all_data = []
 
 for line in input_file:
-  all_data.append(line.strip());
+  all_data.append(line.strip())
 
 
 highest = [0, 0, 0]
